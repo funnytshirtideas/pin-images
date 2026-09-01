@@ -1,0 +1,4 @@
+.env
+*.csv
+Thumbs.db
+desktop.ini
